@@ -1,0 +1,4 @@
+manifest.md
+*.pseudonymized.md
+desktop.ini
+__pycache__/
